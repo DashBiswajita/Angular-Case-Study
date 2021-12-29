@@ -1,0 +1,16 @@
+
+.box{
+    box-sizing: border-box;
+    border: 1px solid black;
+    background-clip:padding-box;
+  }
+  .timebox{
+    box-sizing: border-box;
+    border: 1px solid black;
+    background-clip:padding-box;
+    height : 18rem;
+    overflow-y: scroll;
+  }
+.timer {
+    height: 10rem;  
+}

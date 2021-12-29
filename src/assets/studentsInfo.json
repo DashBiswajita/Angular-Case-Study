@@ -1,0 +1,137 @@
+[{
+    "name" : "Biswajita Dash",
+    "class" : 2,
+    "section" : "A",
+    "Math" : 23,
+    "Science" : 24,
+    "English" : 20 
+},
+{
+    "name" : "Pramod Kumar Dash",
+    "class" : 3,
+    "section" : "B",
+    "Math" : 25,
+    "Science" : 25,
+    "English" : 20 
+},
+{
+    "name" : "Sabita Dash",
+    "class" : 3,
+    "section" : "A",
+    "Math" : 20,
+    "Science" : 22,
+    "English" : 21 
+},
+{
+    "name" : "Pratyush Kumar Dash",
+    "class" : 1,
+    "section" : "C",
+    "Math" : 19,
+    "Science" : 25,
+    "English" : 25 
+},
+{
+    "name" : "Snehashree Dash",
+    "class" : 2,
+    "section" : "A",
+    "Math" : 20,
+    "Science" : 18,
+    "English" : 20 
+},
+{
+    "name" : "Anshuman Dikshit",
+    "class" : 2,
+    "section" : "B",
+    "Math" : 24,
+    "Science" : 25,
+    "English" : 20 
+},
+{
+    "name" : "Sukanti Dash",
+    "class" : 5,
+    "section" : "A",
+    "Math" : 19,
+    "Science" : 20,
+    "English" : 19
+},
+{
+    "name" : "Sasi Bhusana Dash",
+    "class" : 6,
+    "section" : "C",
+    "Math" : 24,
+    "Science" : 19,
+    "English" : 23
+},
+{
+    "name" : "Anshuman Dikshit",
+    "class" : 2,
+    "section" : "B",
+    "Math" : 24,
+    "Science" : 25,
+    "English" : 20 
+},
+{
+    "name" : "Sukanti Dash",
+    "class" : 5,
+    "section" : "A",
+    "Math" : 19,
+    "Science" : 20,
+    "English" : 19
+},
+{
+    "name" : "Sasi Bhusana Dash",
+    "class" : 6,
+    "section" : "C",
+    "Math" : 24,
+    "Science" : 19,
+    "English" : 23
+},
+{
+    "name" : "Anshuman Dikshit",
+    "class" : 2,
+    "section" : "B",
+    "Math" : 24,
+    "Science" : 25,
+    "English" : 20 
+},
+{
+    "name" : "Sukanti Dash",
+    "class" : 5,
+    "section" : "A",
+    "Math" : 19,
+    "Science" : 20,
+    "English" : 19
+},
+{
+    "name" : "Sasi Bhusana Dash",
+    "class" : 6,
+    "section" : "C",
+    "Math" : 24,
+    "Science" : 19,
+    "English" : 23
+},
+{
+    "name" : "Anshuman Dikshit",
+    "class" : 2,
+    "section" : "B",
+    "Math" : 24,
+    "Science" : 25,
+    "English" : 20 
+},
+{
+    "name" : "Sukanti Dash",
+    "class" : 5,
+    "section" : "A",
+    "Math" : 19,
+    "Science" : 20,
+    "English" : 19
+},
+{
+    "name" : "Sasi Bhusana Dash",
+    "class" : 6,
+    "section" : "C",
+    "Math" : 24,
+    "Science" : 19,
+    "English" : 23
+}
+]

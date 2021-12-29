@@ -1,0 +1,29 @@
+<div class="container">
+   <div class="row my-2 timer justify-content-center">
+      <div class="col-4 box  mx-2">
+         <app-count-down *ngIf="!withSubject" [timeLimit]="timeLimit" [buttonName]=buttonName></app-count-down>
+         <app-count-down *ngIf="withSubject"></app-count-down>
+      </div>
+      <div class="col-7 box">
+         <form [formGroup]="timer" (ngSubmit)="timerSubmit()">
+            <div>
+               <label for="time">Enter Timer Limit</label>
+               <input name="time" id="time" formControlName="time">
+            </div>
+            <button type="submit" class="btn btn-primary">{{buttonName}}</button>
+            <button type="button" class="btn btn-secondary" (click)="resetForm(timer)">Reset</button>
+         </form>
+      </div>
+   </div>
+   <div class="row justify-content-center">
+      <div class="col-6 timeLog timebox mx-2">
+         <app-time-stamp-log *ngIf="withSubject"></app-time-stamp-log>
+         <app-time-stamp-log *ngIf="!withSubject" [message]="logMessage"></app-time-stamp-log>
+      </div>
+      <div class="col-5 countLog timebox">
+         <app-start-pause-count *ngIf="!withSubject" [countObj]="countObj"></app-start-pause-count>
+         <app-start-pause-count *ngIf="withSubject"></app-start-pause-count>
+      </div>
+   </div>
+   
+</div>

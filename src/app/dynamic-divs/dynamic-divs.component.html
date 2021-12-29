@@ -1,0 +1,9 @@
+
+<div class="container">
+    <h2 style="background-color: orangered; width: 90vw; margin: 4px auto;">Dynamic Divs</h2>
+    <cdk-virtual-scroll-viewport itemSize="200"  class="container-fluid">
+        <div *cdkVirtualFor="let i of arr; let index = index" class="p-2 m-2 d-flex align-items-center innerDiv justify-content-center" >
+                <button mat-button type="button" class="btn btn-warning" (click)="buttonClick(index + 1)">Click</button>
+        </div>
+    </cdk-virtual-scroll-viewport>
+</div>

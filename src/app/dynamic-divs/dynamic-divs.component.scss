@@ -1,0 +1,14 @@
+.innerDiv{
+    height: 200px;
+    width: 200px;
+    background-color: orangered;
+    border: 1px solid orange;
+}
+.container-fluid{
+    display: flex;
+    flex-direction: row;
+    width: 90vw;
+    height: 90vh;
+    flex-wrap: wrap;
+}
+// class="container-fluid d-flex flex-wrap align-items-start" "

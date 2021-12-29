@@ -1,0 +1,12 @@
+.card {
+    background-image: linear-gradient(to right bottom, rgba(255, 102, 0, 0.308), orangered);
+    transition: all 1s;
+}
+.card:hover{
+    transform: scaley(1.1);
+    z-index: 1;
+    box-shadow: 1px rgb(70, 65, 65);
+}
+.form-inline{
+    display: flex;
+}
