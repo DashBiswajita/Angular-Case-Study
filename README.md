@@ -1,6 +1,6 @@
 # AngularConcepts
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2. This project aims at different concepts of angular like lazy loading, dynamic scrolling using angular material, angular animation, component communication with @inpput, @output and subjects, built-in directives, pagination etc.
 
 ## Development server
 
